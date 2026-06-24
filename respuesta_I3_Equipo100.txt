@@ -5,3 +5,12 @@ c- Para hacer el merge tuve que traer los datos ingresados en la rama de Gamma, 
 1-  git switch main
 2-  git merge vazquez 
 
+d- No, las ramas creadas no quedan con los datos actualizados ya que los cambios se hacen sobre las ramas en las que estamos trabajando es dicho momento.
+e- Personalmente, nosotros no tuvimos ningún inconveniente al hacer el merge.
+f- Los comandos utilizados para el punto 7 fueron los siguientes:
+   git fetch origin
+   git checkout -b Fernandes origin/Fernandes
+   git add .
+   git commit -m "Modifico beta.txt"
+   git push -u origin Fernandes
+
