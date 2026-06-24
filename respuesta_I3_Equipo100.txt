@@ -1,0 +1,7 @@
+a- Después de estos cambios, el master (main) toma todo lo editado en las ramas creadas y las agrega asi misma.
+b- Si puedo ver todo lo que se agrego, a excepción de los archivos creados localmente.
+c- Para hacer el merge tuve que traer los datos ingresados en la rama de Gamma, luego utilice los siguientes comandos:
+
+1-  git switch main
+2-  git merge vazquez 
+
