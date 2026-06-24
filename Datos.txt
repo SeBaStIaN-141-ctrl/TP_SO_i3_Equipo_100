@@ -1,1 +1,10 @@
 
+ALFA: 
+Nombre: Lautaro Sismonda
+IP: 192.131.5.2
+Hora: 17:30
+
+BETA:
+Nombre: Fernandes Sebastián
+IPL 192.168.0.3
+Hora: 17:35
