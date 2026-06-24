@@ -1,3 +1,7 @@
+Beta: Sebastian Fernandes
+Gamma: Denise Vazquez
+Alfa: Lautaro Sismonda
+
 a- Después de estos cambios, el master (main) toma todo lo editado en las ramas creadas y las agrega asi misma.
 b- Si puedo ver todo lo que se agrego, a excepción de los archivos creados localmente.
 c- Para hacer el merge tuve que traer los datos ingresados en la rama de Gamma, luego utilice los siguientes comandos:
@@ -14,3 +18,9 @@ f- Los comandos utilizados para el punto 7 fueron los siguientes:
    git commit -m "Modifico beta.txt"
    git push -u origin Fernandes
 
+g- Los comandos que usé son:
+git fetch origin
+git checkout -b Fernandes origin/Fernandes
+git add .
+git commit -m "Modifico beta.txt"
+git push -u origin Fernandes
