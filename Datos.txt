@@ -1,7 +1,1 @@
-Gamma:
-
-Nombre: Denise Vazquez
-IP: 192.168.0.1
-Hora: 17:00
-
 
